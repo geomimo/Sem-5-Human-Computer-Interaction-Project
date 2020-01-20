@@ -1,0 +1,14 @@
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\bin\Debug\AAYFinalProj19.exe.config
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\bin\Debug\AAYFinalProj19.exe
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\bin\Debug\AAYFinalProj19.pdb
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\obj\Debug\AAYFinalProj19.csprojAssemblyReference.cache
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\obj\Debug\AAYFinalProj19.Properties.Resources.resources
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\obj\Debug\AAYFinalProj19.csproj.GenerateResource.cache
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\obj\Debug\AAYFinalProj19.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\obj\Debug\AAYFinalProj19.exe
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\obj\Debug\AAYFinalProj19.pdb
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\obj\Debug\AAYFinalProj19.mainForm.resources
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\obj\Debug\AAYFinalProj19.csproj.CopyComplete
+C:\Users\GeoMimo\source\repos\AAYFinalProj19\AAYFinalProj19\obj\Debug\AAYFinalProj19.ReservationForm.resources
